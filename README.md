@@ -1,6 +1,8 @@
 ## ANTLR
 
-This module contains articles about ANTLR
+build the project: `mvn package`
+
+build the jar: `mvn clean compile assembly:single`
 
 ### Relevant Articles: 
 
