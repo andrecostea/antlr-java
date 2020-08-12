@@ -1,7 +1,5 @@
-package com.racerdfix.antlr.java;
+package org.racerdfix.antlr;
 
-import com.racerdfix.antlr.Java8BaseListener;
-import com.racerdfix.antlr.Java8Parser;
 import org.antlr.v4.runtime.tree.TerminalNode;
 
 import java.util.ArrayList;

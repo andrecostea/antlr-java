@@ -1,11 +1,11 @@
-package com.racerdfix.antlr;
+package org.racerdfix.antlr;
 
-import com.racerdfix.antlr.java.UppercaseMethodListener;
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.tree.ParseTree;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
 import org.junit.Test;
+
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
